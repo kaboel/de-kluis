@@ -1,1 +1,13 @@
+# editors
+.idea
+.vscode
+
+# configurations
+src/_core/config.js
+*.swp
+
+# dependencies
 node_modules
+
+# Procfile
+Procfile
